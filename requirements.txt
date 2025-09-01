@@ -1,0 +1,15 @@
+langchain>=0.1.0
+openai>=1.0.0
+tiktoken>=0.5.0
+pandas>=2.0.0
+faiss-cpu
+chromadb
+unstructured
+
+fastapi
+uvicorn
+gradio
+requests
+langchain-openai
+langchain-core
+pydantic
