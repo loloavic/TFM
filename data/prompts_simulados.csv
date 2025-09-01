@@ -1,1 +1,9 @@
-
+prompt,categoria_esperada
+"Me mudo de Sevilla a Zaragoza con mis hijos, ¿cómo cambio su colegio y la tarjeta sanitaria?",Mudanza con hijos
+"Voy a cambiar mi residencia por trabajo, sin hijos ni acompañantes.",Cambio de comunidad por trabajo
+"He decidido mudarme a otra comunidad, pero no tengo familia a cargo.",Mudanza sin hijos
+"Después de jubilarme, me traslado al norte. ¿Qué trámites debo hacer?",Otro
+Nos mudamos toda la familia a Galicia. Necesito ayuda con empadronamiento y colegio.,Mudanza con hijos
+Cambio de comunidad por una nueva oferta laboral.,Cambio de comunidad por trabajo
+Me traslado solo por motivos personales.,Mudanza sin hijos
+Mudanza con hijos en edad escolar. Necesito saber por dónde empiezo.,Mudanza con hijos
